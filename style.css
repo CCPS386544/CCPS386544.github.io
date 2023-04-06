@@ -1,30 +1,26 @@
-p{
-  color:Blue;
+h1 {
+  color: #FFF !important;
+  font-size: 2em;
+  padding-top: 100px;
 }
-ol{
-  color:Purple;
-}
-p{
-  Color:purple
-ol{
-  Color:green 
+ol {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.5);
+  font-weight: 100;
+  }
 ul{
-  Color:blue
-ul{
-  Color:green 
+ font-size: 22px;
+  line-height: 24px;
+  }
 h1{
-  Color:blue 
-h1{
-  Color:teal
+   width: 70%;
+  font-family: Georgia;
+  }
 header{
-  Color:blue
-header{
-  Color:silver
-body{
-  Color:blue
+  line-height: 1.3em;
+  text-align: left;
+  }
 body{
   Color:green
-footer{
-  Color:blue
 footer{
   Color:green
